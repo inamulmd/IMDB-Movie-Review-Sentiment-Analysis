@@ -2,8 +2,8 @@ venv/
 __pycache__/
 # allow required pkl files
 
-*.keras
-!model.h5
+!my_model.keras
+
 
 logs/
 *.csv

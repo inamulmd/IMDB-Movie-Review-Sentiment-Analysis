@@ -15,7 +15,7 @@ reverse_word_index={value: key for key ,value in word_index.items()}
 
 # Load the pre_trained model with Relu activation
 # model=load_model('model.h5')
-model=load_model('clean_model.h5')
+model=load_model('my_model.keras')
 # model.summary()
 
 
